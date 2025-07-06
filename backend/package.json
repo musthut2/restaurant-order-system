@@ -1,0 +1,17 @@
+{
+  "name": "restaurant-backend",
+  "version": "1.0.0",
+  "description": "Restaurant Order Management Backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "helmet": "^6.1.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  }
+}
